@@ -43,6 +43,7 @@ Good Omens</br>
 Gotoubun no Hanayome</br>
 Grimm</br>
 Hanna</br>
+House of Card </br>
 Hunter x Hunter</br>
 Hyouka</br>
 Impulse</br>
@@ -75,6 +76,7 @@ Once Upon Time (Era Uma Vez)</br>
 O Mundo Sombrio de Sabrina</br>
 On My Block</br>
 One Punch Man</br>
+Outlander <br>
 Orange New Black
 Os 100</br>
 Preacher</br>
