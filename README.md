@@ -54,6 +54,7 @@ Insatiable</br>
 Into the Badlands</br>
 InuYasha</br>
 Isekai Quartet</br>
+Jardineiro de Bronze</br>
 Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</br>
 Kenja no Mago</br>
 Kimetsu no Yaiba</br>
