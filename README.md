@@ -84,6 +84,7 @@ One Punch Man</br>
 Outlander <br>
 Orange New Black
 Os 100</br>
+Os Originais</br>
 Preacher</br>
 Prision Break </br>
 Re:ZERO Kara Hajimeru Isekai Seikatsu</br>
@@ -103,6 +104,7 @@ Tate no Yuusha no Nariagari</br>
 Tensei Shitara Slime Datta Ken</br>
 The Magicians (2015)</br>
 The Passage</br>
+The Vampire Diaries</br>
 The Umbrella Academy</br>
 The Walking Dead</br>
 Titãs</br>
