@@ -35,7 +35,7 @@ Fairy Tail</br>
 Fear the Walking Dead</br>
 Flash</br>
 Fugitivos da Marvel</br>
-F.R.I.E.N.D.S
+F.R.I.E.N.D.S</br>
 Game of Thrones</br>
 Goblin Slayer</br>
 Good Girls</br>
