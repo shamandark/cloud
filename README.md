@@ -5,7 +5,7 @@ LISTA DE SERIES E ANIMES </br></br>
 24 Horas</br>
 A Maldição da Residência Hill</br>
 Agentes da S.H.I.E.L.D. da Marvel</br>
-Anatomia de Grey</br>
+Anatomia de Grey (Grey's anatomy)</br>
 Arqueiro</br>
 Avatar: A Lenda de Aang</br>
 Avatar: A Lenda De Korra</br>
@@ -33,6 +33,7 @@ Fairy Tail</br>
 Fear the Walking Dead</br>
 Flash</br>
 Fugitivos da Marvel</br>
+F.R.I.E.N.D.S
 Game of Thrones</br>
 Goblin Slayer</br>
 Good Girls</br>
@@ -60,25 +61,32 @@ Marvel - Os Defensores</br>
 Midara na Ao-chan wa Benkyou ga Dekinai</br>
 Mo Dao Zu Shi</br>
 Mob Psycho 100</br>
+Mr. Robot
 Nanatsu no Taizai</br>
 No Game No Life</br>
 O Bom Doutor</br>
 O Bosque</br>
 O Conto da Aia</br>
 O Jovem Sheldon</br>
+Os Originais </br>
+Once Upon Time (Era Uma Vez)</br>
 O Mundo Sombrio de Sabrina</br>
 On My Block</br>
 One Punch Man</br>
+Orange New Black
 Os 100</br>
 Preacher</br>
+Prision Break </br>
 Re:ZERO Kara Hajimeru Isekai Seikatsu</br>
 Riverdale</br>
 Safe</br>
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</br>
 Sex Education</br>
 Shingeki No Kyojin</br>
+SmallVille <br>
 South Park</br>
 Stranger Things</br>
+Supernatural </br>
 Sword Art Online</br>
 Sword Art Online Alternative: Gun Gale Online</br>
 Tate no Yuusha no Nariagari</br>
@@ -90,7 +98,7 @@ The Walking Dead</br>
 Titãs</br>
 Todo Mundo Odeia o Cris</br>
 Violet Evergarden</br>
-Você</br>
+Você (You) </br>
 Westworld</br>
 Whiskey Cavalier</br>
 Yahari Ore no Seishun Love Comedy wa Machigatteiru</br>
