@@ -1,6 +1,6 @@
 # cloud
-lista series </br>
-Name</br>
+LISTA DE SERIES E ANIMES </br></br>
+
 3%</br>
 24 Horas</br>
 A Maldição da Residência Hill</br>
