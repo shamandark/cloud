@@ -18,7 +18,7 @@ Bleach</br>
 Boku no Hero Academia</br>
 Bokutachi wa Benkyou ga Dekinai</br>
 Breaking Bad: A Química do Mal</br>
-Caçadores de Sombras</br>
+Caçadores de Sombras (ShadowHunters) </br>
 Charlotte</br>
 Chernobyl</br>
 Como Eu Conheci Sua Mãe</br>
