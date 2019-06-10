@@ -11,7 +11,7 @@ Anatomia de Grey (Grey's anatomy)</br>
 Arqueiro</br>
 Avatar: A Lenda de Aang</br>
 Avatar: A Lenda De Korra</br>
-Big Bang: A Teoria</br>
+Big Bang: A Teoria 1ª a 12ª Temporadas Completas </br>
 Big Little Lies</br>
 Black Mirror</br>
 Bleach</br>
@@ -34,9 +34,9 @@ Ergo Proxy</br>
 Fairy Tail</br>
 Fear the Walking Dead</br>
 Flash</br>
-Fugitivos da Marvel</br>
+Fugitivos da Marvel (Runaway)</br>
 F.R.I.E.N.D.S</br>
-Game of Thrones</br>
+Game of Thrones 1ª a 8ª Temporadas Completas (mais extras)</br>
 Goblin Slayer</br>
 Good Girls</br>
 Good Omens</br>
