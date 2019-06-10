@@ -1,6 +1,8 @@
 # cloud
 LISTA DE SERIES E ANIMES </br></br>
 
+***********NAO ACHOU A SERIE QUE QUER NA LISTA SEM PROBLEMAS SO PEDIR NO CAMPO PERGUNTAS QUE PROCURAMOS PARA VOCÊ. OBRIGADA*********
+
 3%</br>
 24 Horas</br>
 A Maldição da Residência Hill</br>
@@ -104,3 +106,4 @@ Whiskey Cavalier</br>
 Yahari Ore no Seishun Love Comedy wa Machigatteiru</br>
 Yakusoku no Neverland</br>
 
+*********NAO ACHOU A SERIE QUE QUER NA LISTA SEM PROBLEMAS SO PEDIR NO CAMPO PERGUNTAS QUE PROCURAMOS PARA VOCÊ. OBRIGADA***********
