@@ -44,6 +44,7 @@ Good Omens</br>
 Gotoubun no Hanayome</br>
 Grimm</br>
 Hanna</br>
+Homens</br>
 House of Card </br>
 Hunter x Hunter</br>
 Hyouka</br>
@@ -60,6 +61,7 @@ Kiss Me First </br> </br>
 La Casa de Papel </br>
 Legados</br>
 Lúcifer</br>
+Marvel - Inumanos</br>
 Marvel - Demolidor</br>
 Marvel - O Justiceiro</br>
 Marvel - Os Defensores</br>
@@ -91,6 +93,7 @@ Sex Education</br>
 Shingeki No Kyojin</br>
 SmallVille <br>
 South Park</br>
+Sob Pressão</br>
 Stranger Things</br>
 Supernatural </br>
 Sword Art Online</br>
