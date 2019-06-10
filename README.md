@@ -30,6 +30,7 @@ Diários de um Vampiro</br>
 Dois Homens e Meio</br>
 Dororo</br>
 Elementaríssimo</br>
+Elite</br>
 Ergo Proxy</br>
 Fairy Tail</br>
 Fear the Walking Dead</br>
@@ -56,6 +57,7 @@ Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</br>
 Kenja no Mago</br>
 Kimetsu no Yaiba</br>
 Kiss Me First </br> </br>
+La Casa de Papel </br>
 Legados</br>
 Lúcifer</br>
 Marvel - Demolidor</br>
