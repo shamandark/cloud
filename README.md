@@ -59,6 +59,7 @@ Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</br>
 Kenja no Mago</br>
 Kimetsu no Yaiba</br>
 Kiss Me First </br> </br>
+Labirinto Verde</br>
 La Casa de Papel </br>
 Legados</br>
 Lúcifer</br>
