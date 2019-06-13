@@ -32,6 +32,7 @@ Dororo</br>
 Elementaríssimo</br>
 Elite</br>
 Ergo Proxy</br>
+Eu, a Patroa e as Crianças</br>
 Fairy Tail</br>
 Fear the Walking Dead</br>
 Flash</br>
@@ -103,8 +104,10 @@ Sword Art Online</br>
 Sword Art Online Alternative: Gun Gale Online</br>
 Tate no Yuusha no Nariagari</br>
 Tensei Shitara Slime Datta Ken</br>
+The End of the F___ing World</br>
 The Magicians (2015)</br>
 The Passage</br>
+The OA</br>
 The Vampire Diaries</br>
 The Umbrella Academy</br>
 The Walking Dead</br>
