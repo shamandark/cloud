@@ -84,7 +84,7 @@ Midara na Ao-chan wa Benkyou ga Dekinai</br>
 Mo Dao Zu Shi</br>
 Mob Psycho 100</br>
 Mr. Mercedes </br>
-Mr. Robot
+Mr. Robot</br>
 Nanatsu no Taizai</br>
 No Game No Life</br>
 O Bom Doutor</br>
