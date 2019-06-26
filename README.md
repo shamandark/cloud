@@ -21,6 +21,7 @@ Boku no Hero Academia</br>
 Bokutachi wa Benkyou ga Dekinai</br>
 Breaking Bad: A Química do Mal</br>
 Caçadores de Sombras (ShadowHunters) </br>
+Cobra Kai 1ª e 2ª Temporadas </br>
 Charlotte</br>
 Chernobyl</br>
 Colony </br>
