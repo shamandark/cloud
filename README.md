@@ -5,6 +5,7 @@ LISTA DE SERIES E ANIMES </br></br>
 
 3%</br>
 24 Horas</br>
+A Descoberta das Bruxas</br>
 A Maldição da Residência Hill</br>
 Agentes da S.H.I.E.L.D. da Marvel</br>
 Anatomia de Grey (Grey's anatomy)</br>
