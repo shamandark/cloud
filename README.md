@@ -8,7 +8,7 @@ LISTA DE SERIES E ANIMES </br></br>
 A Maldição da Residência Hill</br>
 Agentes da S.H.I.E.L.D. da Marvel</br>
 Anatomia de Grey (Grey's anatomy)</br>
-Arqueiro</br>
+Arqueiro (Arrow)</br>
 Avatar: A Lenda de Aang</br>
 Avatar: A Lenda De Korra</br>
 Barry </br>
@@ -24,16 +24,18 @@ Caçadores de Sombras (ShadowHunters) </br>
 Charlotte</br>
 Chernobyl</br>
 Colony </br>
+Como Defender um Assassino (How to Get away With Murder)<br>
 Como Eu Conheci Sua Mãe</br>
 Como Vender Drogas Online (Rápido)</br>
 Condor</br>
 Dark - 1ª e 2ª temporadas </br>
 Deadly Class</br>
 Desventuras em Serie </br>
-Deuses Americanos</br>
+Deuses Americanos (American Gods)</br>
 Diários de um Vampiro</br>
 Dois Homens e Meio</br>
 Dororo</br>
+Duas Garotas em Apuros (2 Broke Girls)<br>
 Elementary</br>
 Elite</br>
 Ergo Proxy</br>
@@ -49,9 +51,11 @@ Gifted </br>
 Goblin Slayer</br>
 Good Girls</br>
 Good Omens</br>
+Gotham</br>
 Gotoubun no Hanayome</br>
 Grimm</br>
 Hanna</br>
+Historia de Horror Americana (american Horror Story)</br>
 Homens</br>
 Homecoming </br>
 House of Card </br>
@@ -65,7 +69,6 @@ Into the Badlands</br>
 InuYasha</br>
 Isekai Quartet</br>
 Izombie </br>
-Jardineiro de Bronze</br>
 Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</br>
 Kenja no Mago</br>
 Kimetsu no Yaiba</br>
@@ -88,16 +91,18 @@ Mr. Mercedes </br>
 Mr. Robot</br>
 Nanatsu no Taizai</br>
 No Game No Life</br>
-O Bom Doutor</br>
+O Bom Doutor (Good Doctor)</br>
 O Bosque</br>
-O Conto da Aia</br>
+O Conto da Aia (The Handmaid's Tale)</br>
 O Exterminador do Futuro - As Cronicas de Sarah Connor </br>
+O Jardim de Bronze</br>
 O Jovem Sheldon</br>
 Os Originais </br>
 Once Upon Time (Era Uma Vez)</br>
 O Mundo Sombrio de Sabrina</br>
 On My Block</br>
 One Punch Man</br>
+Olhos que Condenam (When They See Us)</br>
 Outlander <br>
 Orange New Black
 Os 100</br>
