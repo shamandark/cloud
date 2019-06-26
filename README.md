@@ -56,6 +56,7 @@ Gotham</br>
 Gotoubun no Hanayome</br>
 Grimm</br>
 Hanna</br>
+Heroes + Heroes Reborn</br>
 Historia de Horror Americana (american Horror Story)</br>
 Homens</br>
 Homecoming </br>
