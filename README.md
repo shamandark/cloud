@@ -97,6 +97,7 @@ No Game No Life</br>
 O Bom Doutor (Good Doctor)</br>
 O Bosque</br>
 O Conto da Aia (The Handmaid's Tale)</br>
+O Escolhido</br>
 O Exterminador do Futuro - As Cronicas de Sarah Connor </br>
 O Jardim de Bronze</br>
 O Jovem Sheldon</br>
