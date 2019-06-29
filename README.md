@@ -130,6 +130,7 @@ South Park</br>
 Sob Pressão</br>
 Stranger Things</br>
 Supernatural </br>
+Super Campeoes (Captain Tsubasa) 2018</br>
 Supergirl </br>
 Sword Art Online</br>
 Sword Art Online Alternative: Gun Gale Online</br>
