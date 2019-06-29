@@ -32,6 +32,7 @@ Como Vender Drogas Online (Rápido)</br>
 Condor</br>
 Dark - 1ª e 2ª temporadas </br>
 Deadly Class</br>
+Dexter</br>
 Desventuras em Serie </br>
 Deuses Americanos (American Gods)</br>
 Diários de um Vampiro</br>
