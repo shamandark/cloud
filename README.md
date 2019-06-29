@@ -94,6 +94,8 @@ Mob Psycho 100</br>
 Mr. Mercedes </br>
 Mr. Robot</br>
 Nanatsu no Taizai</br>
+Naruto (Dual Audio)</br>
+Naruto Shipuuden (Legendado)</br>
 No Game No Life</br>
 O Bom Doutor (Good Doctor)</br>
 O Bosque</br>
