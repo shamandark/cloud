@@ -150,6 +150,7 @@ Titãs</br>
 Todo Mundo Odeia o Cris</br>
 Violet Evergarden</br>
 Vikings </br>
+Vis a Vis <br>
 Você (You) </br>
 Westworld</br>
 Whiskey Cavalier</br>
