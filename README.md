@@ -10,6 +10,7 @@ A Maldição da Residência Hill</br>
 Agentes da S.H.I.E.L.D. da Marvel</br>
 Anatomia de Grey (Grey's anatomy)</br>
 Arqueiro (Arrow)</br>
+Aruanas</br>
 Avatar: A Lenda de Aang</br>
 Avatar: A Lenda De Korra</br>
 Barry </br>
