@@ -11,7 +11,7 @@ Agentes da S.H.I.E.L.D. da Marvel</br>
 Anatomia de Grey (Grey's anatomy)</br>
 Arqueiro (Arrow)</br>
 Aruanas</br>
-As Crônicas de Shannara
+As Crônicas de Shannara</br>
 Avatar: A Lenda de Aang</br>
 Avatar: A Lenda De Korra</br>
 Barry </br>
