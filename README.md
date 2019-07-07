@@ -148,6 +148,7 @@ The Rain </br>
 The Vampire Diaries</br>
 The Umbrella Academy</br>
 The Walking Dead</br>
+This Is Us</br>
 Titãs</br>
 Todo Mundo Odeia o Cris</br>
 Violet Evergarden</br>
