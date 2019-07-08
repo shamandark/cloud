@@ -128,6 +128,7 @@ Sex Education</br>
 Sense8 </br>
 Shingeki No Kyojin</br>
 Shippados </br>
+Six</br>
 Skam</br>
 SmallVille <br>
 South Park</br>
