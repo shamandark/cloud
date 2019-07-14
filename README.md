@@ -90,6 +90,7 @@ Marvel - Inumanos</br>
 Marvel - Demolidor</br>
 Marvel - O Justiceiro</br>
 Marvel - Os Defensores</br>
+Maquina Mortifera </br>
 Midara na Ao-chan wa Benkyou ga Dekinai</br>
 Mo Dao Zu Shi</br>
 Mob Psycho 100</br>
