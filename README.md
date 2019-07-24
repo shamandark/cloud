@@ -6,6 +6,7 @@ LISTA DE SERIES E ANIMES </br></br>
 3%</br>
 24 Horas</br>
 A Descoberta das Bruxas</br>
+A Divisão </br>
 A Maldição da Residência Hill</br>
 Agentes da S.H.I.E.L.D. da Marvel</br>
 Anatomia de Grey (Grey's anatomy)</br>
@@ -85,6 +86,7 @@ La Casa de Papel </br>
 Lendas do Amanha (Dc Legends of Tomorrow) </br>
 Legados</br>
 Lúcifer</br>
+Marvel - Manto e Adaga </br>
 Marvel - Jessica Jones </br>
 Marvel - Inumanos</br>
 Marvel - Demolidor</br>
@@ -120,6 +122,8 @@ Os Originais</br>
 Patrulha do Destino (Doom Patrol) </br>
 Piquenique em Hanging Rock (Picnic at Hanging Rock) </br>
 Preacher</br>
+Pretty Little liars (Malvadas)</br>
+Pretty Little liars The Perfectionnists </br>
 Prision Break </br>
 Re:ZERO Kara Hajimeru Isekai Seikatsu</br>
 Riverdale</br>
