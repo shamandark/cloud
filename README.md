@@ -109,7 +109,6 @@ O Escolhido</br>
 O Exterminador do Futuro - As Cronicas de Sarah Connor </br>
 O Jardim de Bronze</br>
 O Jovem Sheldon</br>
-Os Originais </br>
 Once Upon Time (Era Uma Vez)</br>
 O Mundo Sombrio de Sabrina</br>
 On My Block</br>
@@ -122,7 +121,7 @@ Os Originais</br>
 Patrulha do Destino (Doom Patrol) </br>
 Piquenique em Hanging Rock (Picnic at Hanging Rock) </br>
 Preacher</br>
-Pretty Little liars (Malvadas)</br>
+Pretty Little liars (Maldosas)</br>
 Pretty Little liars The Perfectionnists </br>
 Prision Break </br>
 Re:ZERO Kara Hajimeru Isekai Seikatsu</br>
