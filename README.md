@@ -145,6 +145,7 @@ Sword Art Online</br>
 Sword Art Online Alternative: Gun Gale Online</br>
 Tate no Yuusha no Nariagari</br>
 Tensei Shitara Slime Datta Ken</br>
+The Boys </br>
 The End of the F___ing World</br>
 The Magicians (2015)</br>
 The Passage</br>
@@ -156,6 +157,7 @@ The Walking Dead</br>
 This Is Us</br>
 Titãs</br>
 Todo Mundo Odeia o Cris</br>
+Um Maluco no Pedaço </br>
 Violet Evergarden</br>
 Vikings </br>
 Vis a Vis <br>
