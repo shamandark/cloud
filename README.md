@@ -10,6 +10,7 @@ A Divisão </br>
 A Maldição da Residência Hill</br>
 Agentes da S.H.I.E.L.D. da Marvel</br>
 Anatomia de Grey (Grey's anatomy)</br>
+Anne with an E </br>
 Arqueiro (Arrow)</br>
 Aruanas</br>
 As Crônicas de Shannara</br>
