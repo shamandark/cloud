@@ -103,6 +103,7 @@ Nanatsu no Taizai</br>
 Naruto (Dual Audio)</br>
 Naruto Shipuuden (Legendado)</br>
 No Game No Life</br>
+NOS4A2</br>
 O Bom Doutor (Good Doctor)</br>
 O Bosque</br>
 O Conto da Aia (The Handmaid's Tale)</br>
