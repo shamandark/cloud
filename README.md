@@ -82,6 +82,7 @@ Kenja no Mago</br>
 Kimetsu no Yaiba</br>
 Kiss Me First </br> </br>
 Knightfall </br>
+Jane a Virgem </br>
 Labirinto Verde</br>
 La Casa de Papel </br>
 Lendas do Amanha (Dc Legends of Tomorrow) </br>
@@ -168,5 +169,6 @@ Westworld</br>
 Whiskey Cavalier</br>
 Yahari Ore no Seishun Love Comedy wa Machigatteiru</br>
 Yakusoku no Neverland</br>
+Years and Years</br>
 
 *********NAO ACHOU A SERIE QUE QUER NA LISTA SEM PROBLEMAS SO PEDIR NO CAMPO PERGUNTAS QUE PROCURAMOS PARA VOCÊ. OBRIGADA***********
