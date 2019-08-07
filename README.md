@@ -11,6 +11,7 @@ A Maldição da Residência Hill</br>
 Agentes da S.H.I.E.L.D. da Marvel</br>
 Anatomia de Grey (Grey's anatomy)</br>
 Anne with an E </br>
+Arquivo Morto (Cold Case)</br>
 Arqueiro (Arrow)</br>
 Aruanas</br>
 As Crônicas de Shannara</br>
@@ -87,6 +88,7 @@ Labirinto Verde</br>
 La Casa de Papel </br>
 Lendas do Amanha (Dc Legends of Tomorrow) </br>
 Legados</br>
+Legion</br>
 Lúcifer</br>
 Marvel - Manto e Adaga </br>
 Marvel - Jessica Jones </br>
